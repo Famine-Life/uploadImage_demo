@@ -1,4 +1,4 @@
-# 一个JSP，servlet时，插座，IO，JDBC的上传图片功能演示而已
+## 一个JSP，servlet，socket，IO，JDBC的上传图片功能演示demo
 
 ### 效果图
 
